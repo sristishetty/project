@@ -1,5 +1,6 @@
-text='{"version": "2.0",
-  "metadata": {
+text='{
+    "version": "2.0",
+    "metadata": {
     "apiVersion": "2012-06-01",
     "endpointPrefix": "elasticloadbalancing",
     "protocol": "query",
