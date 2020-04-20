@@ -1,4 +1,4 @@
-text=`{
+text={
   "version": "2.0",
   "metadata": {
     "apiVersion": "2012-06-01",
@@ -1000,6 +1000,6 @@ text=`{
       "member": {}
     }
   }
-}`
+}
 var elbjson = JSON.stringyfy(text);
 
