@@ -1001,5 +1001,5 @@ text=`{
     }
   }
 }`
-var elbjson = JSON.parse(text);
+var elbjson = JSON.stringyfy(text);
 
